@@ -1,0 +1,9 @@
+{
+"summary": "Model based on 52 transcribed pages of the Teubner Anthologia Latina",
+"author": "Thibault Clérice",
+"author-email": "thibault.clerice@chartes.psl.eu",
+"license": "Apache 2.0",
+"url": "https://github.com/lascivaroma/lexical",
+"name": "latin-teubner.mlmodel",
+"script": ["Latn"]
+}
